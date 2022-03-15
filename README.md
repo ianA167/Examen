@@ -1,7 +1,4 @@
 #Exame parcial
-´´´
-Introduccion a la programacion 
-Introduccion a la ingenieria en sistemas 
-Programacion avanzada 
-
-´´´
+_Introduccion a la programacion 
+  _Introduccion a la ingenieria en sistemas 
+    _Programacion avanzada 
